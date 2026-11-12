@@ -20,10 +20,10 @@ Organizing events since 2007, writing code professionally since 2013, making mus
 
 ### ⛰️ Rocken am Brocken
 
-<a href="https://brocken.rocks"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/rocken-am-brocken-dark.png">
   <img src="assets/rocken-am-brocken-light.png" align="right" width="140" alt="Rocken am Brocken">
-</picture></a>
+</picture>
 
 My heart project since 2012: **[Rocken am Brocken](https://brocken.rocks)**, three days of music and nature in Elend near Sorge, right in the Upper Harz.
 Down-to-earth, diverse and for everyone.
